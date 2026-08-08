@@ -7,7 +7,10 @@ stretch breaks, and pomodoro timers.
 
 It's a single Python script (`hyprnyang`) plus one sound file (`meow.wav`) —
 no build step, no package to install beyond a few system libraries.
+ ## Preview 
 
+ ![alt text](sprite.png)
+ 
 ## What's in this folder
 
 ```
